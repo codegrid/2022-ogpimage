@@ -1,0 +1,15 @@
+{
+  "name": "imgix-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@imgix/js-core": "^3.6.1"
+  }
+}
